@@ -1,2 +1,2 @@
-# Laboratory-Management-System---OSGI-Framework
+# Laboratory Management System - OSGI-Framework
 Apache Felix 
